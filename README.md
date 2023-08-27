@@ -22,7 +22,7 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 
 * CPU Power Management (Use AMD Power Management for better control of Power States)
 * Integrated Graphics Acceleration (Known issue of graphical glitches on chromium based browsers when Hardware Acceleration Enabled in browser settings)
-* HDMI Output (No audio over HDMI at the moment)
+* HDMI Video
 * Keyboard & Function Keys, including: Volume, Display Brightness, Sleep
 * Trackpad with multi-touch & Gestures
 * Ethernet
@@ -36,8 +36,10 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 ## What's Not Working Currently
 
 * Wifi/Bluetooth - Realtek 8822CE is unsupported, use a supported PCIe card instead and the corresponding kexts for functionality.
-* Keyboard Backlight 
+* Keyboard Backlight
+* HDMI Audio
 * Microphone
+* Headphone Audio Output
 
 | Drivers                | Kexts                      | SSDTs               | Patchers, etc              |
 |------------------------|----------------------------|---------------------|----------------------------|
