@@ -1,4 +1,4 @@
-# ASUS-FA-706IH Laptop Hackintosh
+# ASUS FA-706IH Laptop Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/Ventura-13.5.1-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
