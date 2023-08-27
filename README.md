@@ -53,6 +53,7 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 |                        |Lilu                        |                     |                            | 
 |                        |NootedRed                   |                     |                            |
 |                        |RadeonSensor                |                     |                            |
+|                        |RealtekRTL8111              |                     |                            |
 |                        |RestrictEvents              |                     |                            |
 |                        |SMCAMDProcessor             |                     |                            |
 |                        |SMCBatteryManager           |                     |                            |
