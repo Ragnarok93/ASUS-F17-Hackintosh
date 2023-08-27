@@ -28,7 +28,6 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 * All USB Ports
 * Webcam 
 * Sleep & Wake
-* iServices
 * DRM
 * Battery Management
 
@@ -38,6 +37,7 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 * Ethernet (Probably works but I can't test it ATM) 
 * Keyboard Backlight 
 * Microphone
+* iServices
 * Probably some other things
 
 | Drivers                | Kexts                      | SSDTs               | Patchers, etc              |
