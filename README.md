@@ -18,27 +18,26 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 |OS Disk         | OEM 512Gb SSD + 1Tb Internal HDD    |
 |RAM             | 16Gb 2667mHz                        |
 
-## What's Working(ish?) Now
+## What's Working
 
 * CPU Power Management (Use AMD Power Management for better control of Power States)
 * Integrated Graphics Acceleration (Known issue of graphical glitches on chromium based browsers when Hardware Acceleration Enabled in browser settings)
 * HDMI Output (No audio over HDMI at the moment)
 * Keyboard & Function Keys, including: Volume, Display Brightness, Sleep
 * Trackpad with multi-touch & Gestures
+* Ethernet
 * All USB Ports
 * Webcam 
 * Sleep & Wake
+* iServices like iCloud, iMessage, Facetime
 * DRM
 * Battery Management
 
 ## What's Not Working Currently
 
 * Wifi/Bluetooth - Realtek 8822CE is unsupported, use a supported PCIe card instead and the corresponding kexts for functionality.
-* Ethernet (Probably works but I can't test it ATM) 
 * Keyboard Backlight 
 * Microphone
-* iServices
-* Probably some other things
 
 | Drivers                | Kexts                      | SSDTs               | Patchers, etc              |
 |------------------------|----------------------------|---------------------|----------------------------|
