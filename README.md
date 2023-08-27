@@ -12,10 +12,10 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 | Component      | Model                               |
 |----------------|-------------------------------------|  
 |CPU             | AMD Ryzen 5 4600H                   |
-|iGPU            | 2Gb Radeon Graphics (Shared)        |
+|iGPU            | 2Gb Radeon Graphics                 |
 |dGPU            | Nvidia GTX 1650 (Disabled)          |
-|Wifi/Bluetooth  | Realtek 8822CE (Unsupported)        |
-|OS Disk         | OEM 512Gb SSD + 1Tb Internal HDD    |
+|Ethernet        | Realtek 8111/8168/8411              |
+|OS Disk         | Micron 2210 512Gb SSD + Seagate ST1000lm035 1Tb HDD    |
 |RAM             | 16Gb 2667mHz                        |
 
 ## What's Working
