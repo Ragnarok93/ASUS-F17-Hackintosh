@@ -66,7 +66,11 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 |                        |VoodooI2CHID                |                     |                            |
 
 ## Bootloader
-I installed alongside Windows 11, using OpenCore as my Bootloader. 
+Installed alongside Windows 11, using OpenCore as my Bootloader & OpenCanopy for GUI.
+
+*Note about booting MacOS - to get past the prohibitory symbol I had to place OpenVariableRuntimeDxe.efi BEFORE OpenRuntime.efi in the Config.plist with LoadEarly set to True. If using ProperTree and the OC Clean Snapshot function it will place them in the wrong order and reset the LoadEarly value every time.
+
+![OpenCanopy Picker](https://github.com/Ragnarok93/ASUS-F17-Ryzentosh/blob/main/Picker.png?raw=true)
 
 ## Credits & Links
 * [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
