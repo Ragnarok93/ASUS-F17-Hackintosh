@@ -13,7 +13,7 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 |----------------|-------------------------------------|  
 |CPU             | AMD Ryzen 5 4600H                   |
 |iGPU            | 2Gb Radeon Graphics (Shared)        |
-|dGP             | Nvidia GTX 1650 (Disabled)          |
+|dGPU            | Nvidia GTX 1650 (Disabled)          |
 |Wifi/Bluetooth  | Realtek 8822CE (Unsupported)        |
 |OS Disk         | OEM 512Gb SSD + 1Tb Internal HDD    |
 |RAM             | 16Gb 2667mHz                        |
