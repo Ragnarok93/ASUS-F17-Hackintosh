@@ -37,7 +37,6 @@ Use at your own risk. I am not liable for any damage you may cause to your own h
 
 * Wifi/Bluetooth - Realtek 8822CE is unsupported, use a supported PCIe card instead and the corresponding kexts for functionality.
 * Keyboard Backlight
-* HDMI Audio
 * Microphone
 * Headphone Audio Output
 
